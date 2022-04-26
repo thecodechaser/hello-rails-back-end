@@ -1,24 +1,98 @@
-# README
+![](https://img.shields.io/badge/thecodechaser-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails React App
 
-Things you may want to cover:
+> Hello Rails back-end app is simple application that contains setup of rails APIs. The API loads a random greeting from database on every requset.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Major languages (Ruby)
+- Framworks (Ruby on Rails)
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
+- A text editor(preferably Visual Studio Code)
 
-* How to run the test suite
+### Install
+- Ruby
+- Ruby on Rails
+- PostgresSQL
 
-* Services (job queues, cache servers, search engines, etc.)
+### Using it Locally
 
-* Deployment instructions
+- Clone the project
 
-* ...
+```
+git clone git@github.com:thecodechaser/hello-rails-back-end.git
+cd hello-rails-back-end
+```
+
+### Setup
+
+Install gems with:
+
+```
+bundle install
+```
+
+Setup database with:
+
+```
+rails db:create
+rails db:migrate
+rails db:seed
+```
+
+### Usage
+
+Start server with:
+
+```
+rails server
+```
+
+Visit http://localhost:3000/ in your browser.
+
+### Open API documentation
+
+```
+Coming soon!
+```
+
+## Visit And Open Files
+
+[Visit Repo](https://github.com/thecodechaser/hello-rails-back-end)
+
+## Download Repo
+
+[Download Repo](https://github.com/thecodechaser/hello-rails-back-end/archive/refs/heads/main.zip)
+
+
+## Authors
+
+👤 **Ranjeet Singh**
+
+- GitHub: [@thecodechaser](https://github.com/thecodechaser)
+- Twitter: [@thecodechaser](https://twitter.com/thecodechaser)
+- LinkedIn: [thecodechaser](https://linkedin.com/in/thecodechaser)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/thecodechaser/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Inspiration: Microverse
+
+## 📝 License
+
+This project is [MIT](./LICENSE.md) licensed.
