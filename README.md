@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/thecodechaser-blueviolet)
 
-# Hello Rails React App
+# Hello Rails Back End App
 
 > Hello Rails back-end app is simple application that contains setup of rails APIs. The API loads a random greeting from database on every requset.
 
