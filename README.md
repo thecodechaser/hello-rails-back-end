@@ -4,6 +4,10 @@
 
 > Hello Rails back-end app is simple application that contains setup of rails APIs. The API loads a random greeting from database on every requset.
 
+## Link to the front end
+
+[Hello React front end](https://github.com/thecodechaser/hello-react-front-end)
+
 ## Built With
 
 - Major languages (Ruby)
